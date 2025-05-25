@@ -1,0 +1,9 @@
+{
+  "platforms": ["apple", "android", "web"],
+  "apple": {
+    "modules": ["ExpoNativeVideoModule"]
+  },
+  "android": {
+    "modules": ["expo.modules.nativevideo.ExpoNativeVideoModule"]
+  }
+}
